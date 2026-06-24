@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "date": "2026-06-11",
+    "time": "21:00",
+    "venue": "Lusail Stadium",
+    "teamA": {
+      "name": "Qatar",
+      "code": "QAT",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Ecuador",
+      "code": "ECU",
+      "score": 0
+    },
+    "status": "scheduled",
+    "highlightsLink": ""
+  },
+  {
+    "id": 2,
+    "date": "2026-06-12",
+    "time": "18:00",
+    "venue": "Al Bayt Stadium",
+    "teamA": {
+      "name": "England",
+      "code": "ENG",
+      "score": 2
+    },
+    "teamB": {
+      "name": "Iran",
+      "code": "IRN",
+      "score": 0
+    },
+    "status": "finished",
+    "highlightsLink": "https://example.com/highlights/england-iran"
+  },
+  {
+    "id": 3,
+    "date": "2026-06-12",
+    "time": "21:00",
+    "venue": "Khalifa International Stadium",
+    "teamA": {
+      "name": "USA",
+      "code": "USA",
+      "score": 1
+    },
+    "teamB": {
+      "name": "Wales",
+      "code": "WAL",
+      "score": 1
+    },
+    "status": "finished",
+    "highlightsLink": "https://example.com/highlights/usa-wales"
+  },
+  {
+    "id": 4,
+    "date": "2026-06-13",
+    "time": "18:00",
+    "venue": "Ahmad Bin Ali Stadium",
+    "teamA": {
+      "name": "Argentina",
+      "code": "ARG",
+      "score": 3
+    },
+    "teamB": {
+      "name": "Saudi Arabia",
+      "code": "KSA",
+      "score": 1
+    },
+    "status": "finished",
+    "highlightsLink": "https://example.com/highlights/argentina-saudi-arabia"
+  },
+  {
+    "id": 5,
+    "date": "2026-06-14",
+    "time": "21:00",
+    "venue": "Lusail Stadium",
+    "teamA": {
+      "name": "France",
+      "code": "FRA",
+      "score": 0
+    },
+    "teamB": {
+      "name": "Denmark",
+      "code": "DEN",
+      "score": 0
+    },
+    "status": "scheduled",
+    "highlightsLink": ""
+  }
+]

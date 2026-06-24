@@ -1,0 +1,394 @@
+[
+  {
+    "group": "A",
+    "teams": [
+      {
+        "name": "Qatar",
+        "code": "QAT",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Ecuador",
+        "code": "ECU",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Senegal",
+        "code": "SEN",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Netherlands",
+        "code": "NED",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      }
+    ]
+  },
+  {
+    "group": "B",
+    "teams": [
+      {
+        "name": "England",
+        "code": "ENG",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Iran",
+        "code": "IRN",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "USA",
+        "code": "USA",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Wales",
+        "code": "WAL",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      }
+    ]
+  },
+  {
+    "group": "C",
+    "teams": [
+      {
+        "name": "Argentina",
+        "code": "ARG",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "KSA",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Mexico",
+        "code": "MEX",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Poland",
+        "code": "POL",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      }
+    ]
+  },
+  {
+    "group": "D",
+    "teams": [
+      {
+        "name": "France",
+        "code": "FRA",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Australia",
+        "code": "AUS",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Denmark",
+        "code": "DEN",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Tunisia",
+        "code": "TUN",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      }
+    ]
+  },
+  {
+    "group": "E",
+    "teams": [
+      {
+        "name": "Spain",
+        "code": "ESP",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CRI",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Germany",
+        "code": "GER",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Japan",
+        "code": "JPN",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      }
+    ]
+  },
+  {
+    "group": "F",
+    "teams": [
+      {
+        "name": "Belgium",
+        "code": "BEL",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Canada",
+        "code": "CAN",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Morocco",
+        "code": "MAR",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Croatia",
+        "code": "CRO",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      }
+    ]
+  },
+  {
+    "group": "G",
+    "teams": [
+      {
+        "name": "Brazil",
+        "code": "BRA",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Serbia",
+        "code": "SRB",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Switzerland",
+        "code": "SUI",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Cameroon",
+        "code": "CMR",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      }
+    ]
+  },
+  {
+    "group": "H",
+    "teams": [
+      {
+        "name": "Portugal",
+        "code": "POR",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Ghana",
+        "code": "GHA",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "Uruguay",
+        "code": "URU",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      },
+      {
+        "name": "South Korea",
+        "code": "KOR",
+        "points": 0,
+        "matchesPlayed": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 0,
+        "goalsAgainst": 0
+      }
+    ]
+  }
+]
